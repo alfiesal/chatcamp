@@ -115,6 +115,66 @@
                 </div><!-- SITE CONTENT -->
             </main>
             <!-- END SITE MAIN -->
+            <main id="main" class="site-main">
+                <section class="page-title">
+                    <div class="container">
+                        <div class="inner align-center">
+                            <h1 class="title">Praktyczne Prompty</h1>
+                            <p class="desc">Najlepsze DARMOWE prompty dla ChatGPT, Midjourney, Dalle-e</p>
+                        </div>
+                    </div>
+                </section><!-- PAGE TITLE -->
+                <div class="site-content">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div class="shop-left">
+                                    <div class="row">
+                                        <div class="col-lg-3 col-sm-4 col-12">
+                                            <div class="product-card zoom-image">
+                                                <div class="inner">
+                                                    <div class="product-thumbnail entry-thumbnail">
+                                                        <a href="prompt-dla-trenera-personalnego.php" title="Product"><img src="assets/images/product-01.png" alt="Product"></a>
+                                                        <span class="badge badge-sale">ChatGPT</span>
+                                                    </div>
+                                                    <div class="product-content">
+                                                        <div class="product-title">
+                                                            <h4 class="title"><a href="prompt-dla-trenera-personalnego.php" title="Top 6 Membership">Dla Trenera Personalnego</a></h4>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div class="shop-left">
+                                    <div class="row">
+                                        <div class="col-lg-3 col-sm-4 col-12">
+                                            <div class="product-card zoom-image">
+                                                <div class="inner">
+                                                    <div class="product-thumbnail entry-thumbnail">
+                                                        <a href="nordic-illustration.php" title="Product"><img src="assets/images/midjourney/nordic-illustration/cover.png" alt="Product"></a>
+                                                        <span class="badge badge-sale">Midjourney</span>
+                                                    </div>
+                                                    <div class="product-content">
+                                                        <div class="product-title">
+                                                            <h4 class="title"><a href="nordic-illustration.php" title="Top 6 Membership">Nordic Illustration</a></h4>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div><!-- SITE CONTENT -->
+            </main>
 
             <!-- BEGIN SITE FOOTER -->
             <footer id="footer" class="footer">
