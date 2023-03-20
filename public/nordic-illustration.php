@@ -129,11 +129,11 @@
                                     <p style="color: #e54750;margin-bottom:5px">Przykłady</p>
                                     <div class="post-thumbnail">
                                         <div class="row">
-                                            <div class="col-6">
+                                            <div class="col-sm-6 col-12">
                                                 <img src="assets/images/midjourney/nordic-illustration/footballer.png" alt="How much does it cost to start and run a website?">
                                                 <p class="mt-2"><i><small>footballer, cute illustrations, flat illustration, nordic illustrations</small></i></p>
                                             </div>
-                                            <div class="col-6">
+                                            <div class="col-sm-6 col-12">
                                                 <img src="assets/images/midjourney/nordic-illustration/santa.png" alt="How much does it cost to start and run a website?">
                                                 <p class="mt-2"><i><small>santa clause, cute illustrations, flat illustration, nordic illustrations</small></i></p>
                                             </div>
@@ -141,11 +141,11 @@
                                     </div>
                                     <div class="post-thumbnail">
                                         <div class="row">
-                                            <div class="col-6">
+                                            <div class="col-sm-6 col-12">
                                                 <img src="assets/images/midjourney/nordic-illustration/bride.png" alt="How much does it cost to start and run a website?">
                                                 <p class="mt-2"><i><small>bride, cute illustrations, flat illustration, nordic illustrations</small></i></p>
                                             </div>
-                                            <div class="col-6">
+                                            <div class="col-sm-6 col-12">
                                                 <img src="assets/images/midjourney/nordic-illustration/camper.png" alt="How much does it cost to start and run a website?">
                                                 <p class="mt-2"><i><small>camper, cute illustrations, flat illustration, nordic illustrations</small></i></p>
                                             </div>
@@ -153,11 +153,11 @@
                                     </div>
                                     <div class="post-thumbnail">
                                         <div class="row">
-                                            <div class="col-6">
+                                            <div class="col-sm-6 col-12">
                                                 <img src="assets/images/midjourney/nordic-illustration/castle.png" alt="How much does it cost to start and run a website?">
                                                 <p class="mt-2"><i><small>castle, cute illustrations, flat illustration, nordic illustrations</small></i></p>
                                             </div>
-                                            <div class="col-6">
+                                            <div class="col-sm-6 col-12">
                                                 <img src="assets/images/midjourney/nordic-illustration/newborn.png" alt="How much does it cost to start and run a website?">
                                                 <p class="mt-2"><i><small>newborn, cute illustrations, flat illustration, nordic illustrations</small></i></p>
                                             </div>
@@ -165,11 +165,11 @@
                                     </div>
                                     <div class="post-thumbnail">
                                         <div class="row">
-                                            <div class="col-6">
+                                            <div class="col-sm-6 col-12">
                                                 <img src="assets/images/midjourney/nordic-illustration/dog.png" alt="How much does it cost to start and run a website?">
                                                 <p class="mt-2"><i><small>dog, cute illustrations, flat illustration, nordic illustrations</small></i></p>
                                             </div>
-                                            <div class="col-6">
+                                            <div class="col-sm-6 col-12">
                                                 <img src="assets/images/midjourney/nordic-illustration/city.png" alt="How much does it cost to start and run a website?">
                                                 <p class="mt-2"><i><small>city, cute illustrations, flat illustration, nordic illustrations</small></i></p>
                                             </div>
