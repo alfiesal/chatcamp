@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge" >
         <meta name="viewport" content="width=device-width, initial-scale=1.0" >
         <meta name="description" content="Nasz kurs nauczy Cię, jak wykorzystać ChatGPT do automatyzacji procesów biznesowych i zwiększenia efektywności Twojej pracy. Zdobądź wiedzę na temat zaawansowanej sztucznej inteligencji i stwórz konkurencyjną przewagę w swojej branży."/>
-        <title>Kurs ChatGPT</title>
+        <title>AI Newsletter</title>
 
         <!-- Style CSS -->
         <link rel="preconnect" href="https://fonts.googleapis.com" >
@@ -80,12 +80,13 @@
                             <div class="row flex-align-c">
                                 <div class="col-lg-6">
                                     <div class="heading mb70">
-                                        <h2 class="heading-title size-xl mb-4">Kurs <span>ChatGPT</span> dla<br> Twojego biznesu!</h2>
-                                        <div class="heading-desc size-m">Wykorzystaj narzędzia takie jak ChatGPT, Dall-e i Midjourney aby zdobyć przewagę nad konkurencją </div>
+                                        <h2 class="heading-title size-xl mb-4"><span>AI Newsletter</span><br></h2>
+                                        <div class="heading-desc size-m">Praktycznie o AI, ChatGPT i innych narzędziach sztucznej inteligencji.</div>
+                                        <div class="heading-desc size-m">Zdobądź wiedzę, aby zyskać przewagę w pracy i biznesie!</div>
 
                                     </div>
                                     <div class="mb-2">
-                                        <p class="font-size-14">Dołącz do listy oczekujących. Liczba miejsc ograniczona!</p>
+                                        <p class="font-size-14">Zapisz się do newslettera, aby nie przegapić rewolucji AI!</p>
                                     </div>
                                     <form action="subscribe.php" method="post" class="newsletter">
                                         <div class="field-input">
